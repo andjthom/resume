@@ -4,7 +4,7 @@ Pursue a Masters of Science in Computer Science...
 
 ## Notable Coursework
 
-* MATH 301 - Calculus III (4 units) - Spring 2018
+* **MATH 301 - Calculus III (4 units)** - Spring 2018
   * Differential and integral calculus of functions of several variables, vector analysis, solid analytic geometry, introduction to topics in differential equations.
 * MATH 387 - Discrete Mathematics (3 units) - Fall 2018
   * Pigeon-hole principle, counting techniques, binomial coefficients, generating functions, stirling and catalan numbers, permutations and graphs.
