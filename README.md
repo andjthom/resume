@@ -1,6 +1,6 @@
 ## Goals
 
-Pursue a Masters of Science in Computer Science...
+Complete a Masters of Science in Computer Science before pursuing a software engineering career.
 
 ## Notable Coursework from University of Louisville
 
@@ -26,3 +26,13 @@ Pursue a Masters of Science in Computer Science...
   * Topics include the laws of thermodynamics, thermodynamic reasoning, and elements of statistical mechanics.
 * **PHYS 541 - Electromagnetic Fields** - Fall 2019 (3 units)
   * Topics include electrostatic and magnetostatic fields in free space and in material media, time dependent fields, Maxwell's equations.
+
+## Programing Experience
+
+Fluent in:
+* C/C++
+* HTML, Javascript, CSS
+
+Knowledgeable In:
+* Python
+* Java
