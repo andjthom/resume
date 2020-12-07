@@ -46,5 +46,5 @@ Knowledgeable In:
   
 ## Work Experience
 
-* Server, 2 years
-  * Worked with team to best serve restaurant patrons.
+* Server, 2018 - present
+  * Work with team to best serve restaurant patrons.
