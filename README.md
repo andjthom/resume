@@ -43,3 +43,8 @@ Knowledgeable In:
   * Conducted Fall 2020, advised by Dr. Shudun Liu.
   * We model the overdensities in the intergalactic medium in order to simulate the formation of a galactic structure using in a gravitational N-body simulation using the Barnes-Hut Algorithm.
   * [Code](https://github.com/andjthom/barnes-hut-sim) and [paper](https://github.com/andjthom/resume/raw/main/Thompson__Knabel__Waters_2020___N_Body_Galaxy_Simulation.pdf) associated with this project.
+  
+## Work Experience
+
+* Server, 2 years
+  * Worked with team to best serve restaurant patrons.
