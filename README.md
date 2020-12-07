@@ -48,3 +48,5 @@ Knowledgeable In:
 
 * Server, 2018 - present
   * Work with team to best serve restaurant patrons.
+  
+*References available upon request.*
