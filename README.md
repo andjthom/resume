@@ -36,3 +36,10 @@ Fluent in:
 Knowledgeable In:
 * Python
 * Java
+
+## Research Experience
+
+* **N-body Galaxy Simulation Using Barnes-Hut Algorithm (Thompson, Knabel, Waters 2020)**
+  * Conducted Fall 2020, advised by 
+  * We model the overdensities in the intergalactic medium in order to simulate the formation of a galactic structure using in a gravitational N-body simulation using the Barnes-Hut Algorithm.
+  * Relevant [code](https://github.com/andjthom/barnes-hut-sim) and [paper](make link) associated with this project.
