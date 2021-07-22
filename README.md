@@ -54,6 +54,6 @@ Knowledgeable In:
 ## Work Experience
 
 * Server, 2018 - present
-  * Work with team to best serve restaurant patrons.
+  * Work with team to best serve restaurant patrons rewarding strong communication and organization.
   
 *References available upon request.*
