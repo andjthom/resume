@@ -4,6 +4,13 @@ Complete a Masters of Science in Computer Science before pursuing a software eng
 
 ## Notable Coursework from University of Louisville
 
+* **CSE 130 - Introduction to Programming Languages** - Spring 2020 (3 units)
+  * Introduction to programming languages with emphasis on C and C++, and an introduction to Java.
+* **CSE 310 - Discrete Structures** - Summer 2021 (3 units)
+  * Engineering applications using computer structures including algebraic computational structures, trees, graphs, and groups.
+* **CSE 503 - Survey of Computer Engineering and Computer Science** - Summer 2021 (3 units)
+  * Introduction to foundations of computer engineering and computer science with emphasis on C++, data structures, algorithms, and operating systems fundamentals.
+
 * **MATH 301 - Calculus III** - Spring 2018 (4 units)
   * Topics include differential and integral calculus of functions of several variables, solid analytic geometry.
 * **MATH 387 - Discrete Mathematics** - Fall 2018 (3 units)
